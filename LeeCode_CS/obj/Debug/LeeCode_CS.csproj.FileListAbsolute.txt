@@ -1,0 +1,6 @@
+c:\users\liujf\documents\visual studio 2013\Projects\LeeCode_CS\LeeCode_CS\bin\Debug\LeeCode_CS.exe.config
+c:\users\liujf\documents\visual studio 2013\Projects\LeeCode_CS\LeeCode_CS\bin\Debug\LeeCode_CS.exe
+c:\users\liujf\documents\visual studio 2013\Projects\LeeCode_CS\LeeCode_CS\bin\Debug\LeeCode_CS.pdb
+c:\users\liujf\documents\visual studio 2013\Projects\LeeCode_CS\LeeCode_CS\obj\Debug\LeeCode_CS.csprojResolveAssemblyReference.cache
+c:\users\liujf\documents\visual studio 2013\Projects\LeeCode_CS\LeeCode_CS\obj\Debug\LeeCode_CS.exe
+c:\users\liujf\documents\visual studio 2013\Projects\LeeCode_CS\LeeCode_CS\obj\Debug\LeeCode_CS.pdb
